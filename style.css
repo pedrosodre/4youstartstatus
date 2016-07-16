@@ -93,6 +93,10 @@ img {
     background-color: #0DE877;
 }
 
+.panel.operational, .label.operational{
+    background-color: #0DE877;
+}
+
 .panel.degraded.performance, .label.degraded.performance{
     background-color: #FFA500;
 }
@@ -130,6 +134,10 @@ ul.systems > li:last-child{
 }
 
 .status.online{
+    color: #0DE877;
+}
+
+.status.operational{
     color: #0DE877;
 }
 
